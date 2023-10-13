@@ -1,0 +1,35 @@
+body 
+{
+    font-family: 'Special Elite', cursive;
+    background: dimgray; 
+    font-size: 20px;
+    color: black;
+}
+
+.header_div
+{
+    background: black;
+    color: orange;
+}
+
+.header_div p{
+    background-color: black;
+    font-family: 'roboto', sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
